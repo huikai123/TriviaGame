@@ -1,11 +1,12 @@
 .wrap{
-	visibility: hidden;
+	display: none;
 }
 
 
 .container {
 	background-color: yellow;
 	margin: 0 auto;
+	min-height: 100vh;
 }
 
 
@@ -14,6 +15,7 @@
     left: 0px; 
     top: 0px; 
  	background-size: cover;
+ 	min-height: 100vh;
 }
 
 p {
@@ -43,4 +45,16 @@ label {
 	font-size: 60px;
 	border-radius: 20%;
 	margin: 0 auto;
+}
+
+.start {
+	width: 220px;
+	display: block;
+}
+.replay {
+	float: right;
+}
+
+.last{
+	display: none;
 }

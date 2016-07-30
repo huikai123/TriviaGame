@@ -1,0 +1,46 @@
+.wrap{
+	visibility: hidden;
+}
+
+
+.container {
+	background-color: yellow;
+	margin: 0 auto;
+}
+
+
+#background { 
+ 	background-image: url("../../assets/images/pic.jpg");
+    left: 0px; 
+    top: 0px; 
+ 	background-size: cover;
+}
+
+p {
+	font-size: 40px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+h1 {
+	color: blue;
+	text-align: center;
+	font-size: 70px;
+	font-weight: bolder;
+}
+
+li {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+label {
+	font-size: 25px;
+}
+
+.btn {
+	text-align: center;
+	font-size: 60px;
+	border-radius: 20%;
+	margin: 0 auto;
+}

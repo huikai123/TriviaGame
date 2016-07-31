@@ -45,15 +45,11 @@ label {
 	font-size: 60px;
 	border-radius: 20%;
 	margin: 0 auto;
-}
-
-.start {
 	width: 220px;
 	display: block;
 }
-.replay {
-	float: right;
-}
+
+
 
 .last{
 	display: none;
